@@ -1,4 +1,13 @@
 # Game
+
+To run the game: you need to change the ip address to your local ip address on line 13 in run.py
+ & on line 39 in cluelessUI.py.
+ 
+ You'll first run: run.py
+
+and then run: cluelessUI.py, it will ask you for a name, and you can click File>start game, if you want more than one player start another terminal with cluelessUI.py
+
+
 This is a python implementation of Clu e, a simplified version of the popular board game.
 
 There are the same nine rooms, six weapons, and six people as in the board game. The main simplification is that navigation of the game board. The rules are essentially the asme except for the movement between the rooms.
